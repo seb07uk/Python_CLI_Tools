@@ -1,3 +1,6 @@
+<img width="670" height="372" alt="image" src="https://github.com/user-attachments/assets/c4f399f0-a252-4a30-9668-d1653d3de7d5" />
+
+
 # 🚀 polsoft.ITS CLI Ecosystem (2026 Edition)
 
 A professional collection of system tools, functional modules, and arcade games implemented in **Python**. This ecosystem is designed for the Windows terminal environment, emphasizing ANSI aesthetics, performance, and persistent data management.
